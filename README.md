@@ -16,3 +16,9 @@ provide a movie api for react.js
 
 1.SQL -(mySQL,mariaSQL,PostgreSQL)
 2.NoSQL -(#here we use "MONGODB")
+
+
+## MONGODB ATLAS USERNAME AND PASSWORD:
+pradeep07spk
+2eZ7U419HwtGADzQ
+
