@@ -8,7 +8,7 @@ router.get("/",(req,res)=>{
     res.send("Get all movies");
 });
 
-//C-FOR CREATING AA MOVIES
+//C-FOR CREATING A MOVIES
 router.post("/",(req,res)=>{
     res.send("Create all Movies");
 });
