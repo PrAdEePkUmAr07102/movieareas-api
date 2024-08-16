@@ -4,7 +4,13 @@ export const MovieIndex = (req,res)=>{
 
 
 export const MovieCreate = (req,res)=>{
-    res.send("Create all Movies");
+
+    // CREATE MOVIE INFO(id,title,description)
+
+    console.log(req.body);
+
+    return res.json(req.body);
+    
 };
 
 
